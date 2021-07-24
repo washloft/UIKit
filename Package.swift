@@ -25,5 +25,5 @@ target.dependencies = [
 pkg.targets = [target]
 
 pkg.platforms = [
-   .iOS(.v8)
+   .iOS(.v10)
 ]
