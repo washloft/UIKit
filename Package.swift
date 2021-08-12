@@ -7,7 +7,7 @@ pkg.products = [
     .library(name: "PMKUIKit", targets: ["PMKUIKit"]),
 ]
 pkg.dependencies = [
-    .package(url: "https://github.com/mxcl/PromiseKit.git", from: "6.8.3")
+    .package(url: "https://github.com/mxcl/PromiseKit.git", from: "7.0.0-rc2")
 ]
 pkg.swiftLanguageVersions = [.v4, .v4_2, .v5]
 
